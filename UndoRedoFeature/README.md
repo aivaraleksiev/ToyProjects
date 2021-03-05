@@ -9,9 +9,9 @@ This implementation enables undo/redo functionality in your application. The ide
 
 ## Code structure and Usage
 ### Foundation layer
-**UndoRedoInterface**
-**UndoRedoState**
-**UndoRedoCommandManager**
+**UndoRedoInterface**  
+**UndoRedoState**  
+**UndoRedoCommandManager**  
 These classes are the foundations of the undo/redo functionality. 
 ### Usage
 **UndoRedoString**
