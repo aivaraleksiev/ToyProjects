@@ -15,7 +15,7 @@ This implementation enables undo/redo functionality in your application. The ide
 These classes are the foundations of the undo/redo functionality. 
 ### Usage
 **UndoRedoString**  
-This is a high level class that typically a developer wloud define in order to use the undo/redo functionality.
+This is a high level class that typically a developer would define in order to use the undo/redo functionality.
 You can find more examples of usage in the unit tests in `src` directory.
 
 ## Todo
