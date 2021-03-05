@@ -29,7 +29,7 @@ You can find more examples of usage in the unit tests in `src` directory.
     vcpkg install gtest
     vcpkg integrate install
 ````
-- Set _Solution Platform_ in Visual Studio to _x86_.
+- Set _Solution Platform_ in Visual Studio to _x86_.  
 Now you should be able to build and run the project.
 
 ## LICENSE
