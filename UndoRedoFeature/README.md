@@ -31,3 +31,6 @@ You can find more examples of usage in the unit tests in `src` directory.
 ````
 Now you should be able to build and run the project.
 
+## LICENSE
+BSD 4-Clause License
+
