@@ -16,7 +16,7 @@ public:
    // Constructors
    explicit UndoRedoString(std::string const& str = "");
    explicit UndoRedoString(const char* cstr);
-   UndoRedoString(std::string&& str);
+   explicit UndoRedoString(std::string&& str);
 
    // Destructor.
    ~UndoRedoString();
